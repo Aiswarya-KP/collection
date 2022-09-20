@@ -15,7 +15,7 @@ public class ArrayTest
 		{
 			System.out.println(itr.next());
 		}
-		list.remove(0);
+		list.remove();
 	}
 
 }
